@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Vinayaka K
 
-<!--
-**vinayakak01/vinayakak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+- Python
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Docker
+- Kubernetes
+- AWS
+- Machine Learning
+
+🚀 Current Focus
+- Machine Learning
+- MLOps
+- AI Agents
+- Production AI Systems
+
+📫 Connect With Me
+LinkedIn: linkedin.com/in/vinayakak001
