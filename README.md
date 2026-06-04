@@ -10,6 +10,7 @@ AI/ML Engineer | Full Stack Developer
 - React
 - Node.js
 - Express.js
+- SQL
 - MongoDB
 - Docker
 - Kubernetes
